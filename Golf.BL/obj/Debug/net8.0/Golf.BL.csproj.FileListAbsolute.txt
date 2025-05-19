@@ -1,0 +1,15 @@
+C:\Users\II Novbe\source\repos\Golf\Golf.BL\bin\Debug\net8.0\Golf.BL.deps.json
+C:\Users\II Novbe\source\repos\Golf\Golf.BL\bin\Debug\net8.0\Golf.BL.dll
+C:\Users\II Novbe\source\repos\Golf\Golf.BL\bin\Debug\net8.0\Golf.BL.pdb
+C:\Users\II Novbe\source\repos\Golf\Golf.BL\bin\Debug\net8.0\Golf.DAL.dll
+C:\Users\II Novbe\source\repos\Golf\Golf.BL\bin\Debug\net8.0\Golf.DAL.pdb
+C:\Users\II Novbe\source\repos\Golf\Golf.BL\obj\Debug\net8.0\Golf.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\Golf\Golf.BL\obj\Debug\net8.0\Golf.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\Golf\Golf.BL\obj\Debug\net8.0\Golf.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\Golf\Golf.BL\obj\Debug\net8.0\Golf.BL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\Golf\Golf.BL\obj\Debug\net8.0\Golf.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\Golf\Golf.BL\obj\Debug\net8.0\Golf.BL.csproj.Up2Date
+C:\Users\II Novbe\source\repos\Golf\Golf.BL\obj\Debug\net8.0\Golf.BL.dll
+C:\Users\II Novbe\source\repos\Golf\Golf.BL\obj\Debug\net8.0\refint\Golf.BL.dll
+C:\Users\II Novbe\source\repos\Golf\Golf.BL\obj\Debug\net8.0\Golf.BL.pdb
+C:\Users\II Novbe\source\repos\Golf\Golf.BL\obj\Debug\net8.0\ref\Golf.BL.dll

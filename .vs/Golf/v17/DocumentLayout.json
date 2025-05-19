@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\Golf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\areas\\admin\\views\\golfpr\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\areas\\admin\\views\\golfpr\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\areas\\admin\\controllers\\golfprcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\areas\\admin\\controllers\\golfprcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA23A0-F3AD-4AFF-A988-A0BC41637B33}|Golf.DAL\\Golf.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA23A0-F3AD-4AFF-A988-A0BC41637B33}|Golf.DAL\\Golf.DAL.csproj|solutionrelative:golf.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1C064B-EBF9-43BE-9E8B-B797427CC8F1}|Golf.BL\\Golf.BL.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.bl\\services\\golfprservice.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CF1C064B-EBF9-43BE-9E8B-B797427CC8F1}|Golf.BL\\Golf.BL.csproj|solutionrelative:golf.bl\\services\\golfprservice.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\areas\\admin\\views\\golfpr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\areas\\admin\\views\\golfpr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1C064B-EBF9-43BE-9E8B-B797427CC8F1}|Golf.BL\\Golf.BL.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.bl\\viewmodels\\golfprvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1C064B-EBF9-43BE-9E8B-B797427CC8F1}|Golf.BL\\Golf.BL.csproj|solutionrelative:golf.bl\\viewmodels\\golfprvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\areas\\admin\\views\\golfpr\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\areas\\admin\\views\\golfpr\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\areas\\admin\\views\\golfpr\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\areas\\admin\\views\\golfpr\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA23A0-F3AD-4AFF-A988-A0BC41637B33}|Golf.DAL\\Golf.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.dal\\models\\golfpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA23A0-F3AD-4AFF-A988-A0BC41637B33}|Golf.DAL\\Golf.DAL.csproj|solutionrelative:golf.dal\\models\\golfpr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF1C064B-EBF9-43BE-9E8B-B797427CC8F1}|Golf.BL\\Golf.BL.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.bl\\exceptions\\golfexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF1C064B-EBF9-43BE-9E8B-B797427CC8F1}|Golf.BL\\Golf.BL.csproj|solutionrelative:golf.bl\\exceptions\\golfexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}|Golf.MVC\\Golf.MVC.csproj|solutionrelative:golf.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA23A0-F3AD-4AFF-A988-A0BC41637B33}|Golf.DAL\\Golf.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.dal\\migrations\\20250519104041_creategolfstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA23A0-F3AD-4AFF-A988-A0BC41637B33}|Golf.DAL\\Golf.DAL.csproj|solutionrelative:golf.dal\\migrations\\20250519104041_creategolfstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09CA23A0-F3AD-4AFF-A988-A0BC41637B33}|Golf.DAL\\Golf.DAL.csproj|c:\\users\\ii novbe\\source\\repos\\golf\\golf.dal\\migrations\\20250519104011_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09CA23A0-F3AD-4AFF-A988-A0BC41637B33}|Golf.DAL\\Golf.DAL.csproj|solutionrelative:golf.dal\\migrations\\20250519104011_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GolfPrVM.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.BL\\ViewModels\\GolfPrVM.cs",
+              "RelativeDocumentMoniker": "Golf.BL\\ViewModels\\GolfPrVM.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.BL\\ViewModels\\GolfPrVM.cs",
+              "RelativeToolTip": "Golf.BL\\ViewModels\\GolfPrVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:17:04.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GolfPrService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.BL\\Services\\GolfPrService.cs",
+              "RelativeDocumentMoniker": "Golf.BL\\Services\\GolfPrService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.BL\\Services\\GolfPrService.cs",
+              "RelativeToolTip": "Golf.BL\\Services\\GolfPrService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:08:43.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Golf.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\appsettings.json",
+              "RelativeToolTip": "Golf.MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAB2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-19T12:33:05.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Update.cshtml",
+              "RelativeDocumentMoniker": "Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Update.cshtml",
+              "RelativeToolTip": "Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Update.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:00:33.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Info.cshtml",
+              "RelativeDocumentMoniker": "Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Info.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Info.cshtml",
+              "RelativeToolTip": "Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Info.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T12:00:15.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Create.cshtml",
+              "RelativeDocumentMoniker": "Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Create.cshtml",
+              "RelativeToolTip": "Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T11:57:52.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Golf.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Golf.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADEAAAAAAAAAAAAcwEYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T11:44:05.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Golf.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Golf.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T11:43:54.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Index.cshtml",
+              "RelativeDocumentMoniker": "Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Index.cshtml",
+              "RelativeToolTip": "Golf.MVC\\Areas\\Admin\\Views\\GolfPr\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T11:43:37.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GolfPrController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Controllers\\GolfPrController.cs",
+              "RelativeDocumentMoniker": "Golf.MVC\\Areas\\Admin\\Controllers\\GolfPrController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Controllers\\GolfPrController.cs",
+              "RelativeToolTip": "Golf.MVC\\Areas\\Admin\\Controllers\\GolfPrController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:43:31.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Golf.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Golf.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T11:42:30.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Golf.MVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Golf.MVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-19T11:41:31.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Golf.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Program.cs",
+              "RelativeToolTip": "Golf.MVC\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:06:36.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GolfException.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.BL\\Exceptions\\GolfException.cs",
+              "RelativeDocumentMoniker": "Golf.BL\\Exceptions\\GolfException.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.BL\\Exceptions\\GolfException.cs",
+              "RelativeToolTip": "Golf.BL\\Exceptions\\GolfException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:50:23.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250519104041_CreateGolfsTable.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.DAL\\Migrations\\20250519104041_CreateGolfsTable.cs",
+              "RelativeDocumentMoniker": "Golf.DAL\\Migrations\\20250519104041_CreateGolfsTable.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.DAL\\Migrations\\20250519104041_CreateGolfsTable.cs",
+              "RelativeToolTip": "Golf.DAL\\Migrations\\20250519104041_CreateGolfsTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:40:41.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250519104011_Init.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.DAL\\Migrations\\20250519104011_Init.cs",
+              "RelativeDocumentMoniker": "Golf.DAL\\Migrations\\20250519104011_Init.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.DAL\\Migrations\\20250519104011_Init.cs",
+              "RelativeToolTip": "Golf.DAL\\Migrations\\20250519104011_Init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:40:11.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GolfPr.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.DAL\\Models\\GolfPr.cs",
+              "RelativeDocumentMoniker": "Golf.DAL\\Models\\GolfPr.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.DAL\\Models\\GolfPr.cs",
+              "RelativeToolTip": "Golf.DAL\\Models\\GolfPr.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:37:04.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Golf.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "Golf.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:32:50.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Golf.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Golf.MVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T10:32:26.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Golf.MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Golf.MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T10:32:16.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Golf.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Golf.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwF0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T10:32:04.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Golf.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Golf.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAnwIYBAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T10:31:38.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Golf.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\Golf\\Golf.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Golf.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:31:31.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

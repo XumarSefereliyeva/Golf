@@ -1,0 +1,14 @@
+C:\Users\II Novbe\source\repos\Golf\Golf.DAL\bin\Debug\net8.0\Golf.DAL.deps.json
+C:\Users\II Novbe\source\repos\Golf\Golf.DAL\bin\Debug\net8.0\Golf.DAL.runtimeconfig.json
+C:\Users\II Novbe\source\repos\Golf\Golf.DAL\bin\Debug\net8.0\Golf.DAL.dll
+C:\Users\II Novbe\source\repos\Golf\Golf.DAL\bin\Debug\net8.0\Golf.DAL.pdb
+C:\Users\II Novbe\source\repos\Golf\Golf.DAL\obj\Debug\net8.0\Golf.DAL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\source\repos\Golf\Golf.DAL\obj\Debug\net8.0\Golf.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\source\repos\Golf\Golf.DAL\obj\Debug\net8.0\Golf.DAL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\source\repos\Golf\Golf.DAL\obj\Debug\net8.0\Golf.DAL.AssemblyInfo.cs
+C:\Users\II Novbe\source\repos\Golf\Golf.DAL\obj\Debug\net8.0\Golf.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\source\repos\Golf\Golf.DAL\obj\Debug\net8.0\Golf.DAL.dll
+C:\Users\II Novbe\source\repos\Golf\Golf.DAL\obj\Debug\net8.0\refint\Golf.DAL.dll
+C:\Users\II Novbe\source\repos\Golf\Golf.DAL\obj\Debug\net8.0\Golf.DAL.pdb
+C:\Users\II Novbe\source\repos\Golf\Golf.DAL\obj\Debug\net8.0\Golf.DAL.genruntimeconfig.cache
+C:\Users\II Novbe\source\repos\Golf\Golf.DAL\obj\Debug\net8.0\ref\Golf.DAL.dll

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Golf.DAL", "Golf.DAL\Golf.DAL.csproj", "{09CA23A0-F3AD-4AFF-A988-A0BC41637B33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Golf.BL", "Golf.BL\Golf.BL.csproj", "{CF1C064B-EBF9-43BE-9E8B-B797427CC8F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Golf.MVC", "Golf.MVC\Golf.MVC.csproj", "{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09CA23A0-F3AD-4AFF-A988-A0BC41637B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CA23A0-F3AD-4AFF-A988-A0BC41637B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CA23A0-F3AD-4AFF-A988-A0BC41637B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CA23A0-F3AD-4AFF-A988-A0BC41637B33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF1C064B-EBF9-43BE-9E8B-B797427CC8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF1C064B-EBF9-43BE-9E8B-B797427CC8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF1C064B-EBF9-43BE-9E8B-B797427CC8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF1C064B-EBF9-43BE-9E8B-B797427CC8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2219D9FF-82B0-46AB-B2D5-E47F37EC9EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8DDDDD2-37C1-4524-9E8D-253C4F8E01F8}
+	EndGlobalSection
+EndGlobal
