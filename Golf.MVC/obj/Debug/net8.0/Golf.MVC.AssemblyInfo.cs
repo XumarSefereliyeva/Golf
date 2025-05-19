@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Golf.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2aa077817eb6e3a08e1e58bf06b7222f22e5f111")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20ed73075a6bcfac720bd1a252c12cf0e1aa4010")]
 [assembly: System.Reflection.AssemblyProductAttribute("Golf.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Golf.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

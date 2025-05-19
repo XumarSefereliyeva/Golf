@@ -260,3 +260,4 @@ C:\Users\II Novbe\source\repos\Golf\Golf.MVC\bin\Debug\net8.0\runtimes\win\lib\n
 C:\Users\II Novbe\source\repos\Golf\Golf.MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\II Novbe\source\repos\Golf\Golf.MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\II Novbe\source\repos\Golf\Golf.MVC\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\II Novbe\source\repos\Golf\Golf.MVC\obj\Debug\net8.0\Golf.MVC.sourcelink.json
